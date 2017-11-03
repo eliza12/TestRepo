@@ -4,3 +4,11 @@ file changed from firstBranch
 file changed from firstBranch
 new change again and again
 
+<<<<<<< HEAD
+=======
+new change again and again
+
+
+
+new change to solve conflict
+>>>>>>> firstBranch
